@@ -1,2 +1,2 @@
 # snr-hunting
-snr-hunting
+discord.gg/snrdevelopment
